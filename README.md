@@ -3,19 +3,22 @@
 Trabalho Acadêmico de Desenvolvimento Web
 Conexão do PHP com o SQL
 Definição de Variáveis de Conexão
-
+![image](https://github.com/Ramon4002/Projeto-Final-HTML/assets/169726335/c45e0501-7236-4388-8fbd-40172f93efbf)
 
 Criação do Objeto de Conexão
+![image2](https://github.com/Ramon4002/Projeto-Final-HTML/assets/169726335/72fc28b2-0cf1-4947-bb3f-7dc7de3d621c)
 
 
 Esta linha cria um novo objeto mysqli utilizando as credenciais fornecidas, tentando estabelecer uma conexão com o banco de dados.
 
 Verificação de Erros na Conexão
+![image3](https://github.com/Ramon4002/Projeto-Final-HTML/assets/169726335/6ab9231e-03e0-4111-a209-3b7f2f79a8d3)
 
 
 Este código é um exemplo básico de como estabelecer uma conexão com um banco de dados MySQL usando PHP e a extensão mysqli. A interação entre um site e um banco de dados é feita através de consultas SQL para armazenar, buscar e manipular dados. A conexão é estabelecida por meio de funções ou objetos como mysqli ou PDO, facilitando operações como inserções, atualizações e seleções de registros no banco de dados.
 
 Conexão com Formulário para Banco de Dados
+![image4](https://github.com/Ramon4002/Projeto-Final-HTML/assets/169726335/890d3f72-a6bf-45c8-9cb7-392175090070)
 
 
 Formulário de Cadastro: O formulário coleta dados do usuário, como nome, senha, e-mail, telefone, gênero, data de nascimento, cidade, estado e CPF.
